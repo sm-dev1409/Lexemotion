@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "hour": 0,
+    "text": "Wait, they actually did it. GPT-4 is out. This changes everything about how I think about my job.",
+    "source": "r/MachineLearning"
+  },
+  {
+    "id": 2,
+    "hour": 0,
+    "text": "Just saw the announcement. Honestly not that surprised, we all knew it was coming. Let's see if it lives up to the hype.",
+    "source": "r/technology"
+  },
+  {
+    "id": 3,
+    "hour": 1,
+    "text": "I'm a radiologist. I just tested it on some case descriptions and I'm genuinely scared right now. It's frighteningly good.",
+    "source": "r/medicine"
+  },
+  {
+    "id": 4,
+    "hour": 1,
+    "text": "Finally got access. The bar exam results alone are insane. 90th percentile. Let that sink in.",
+    "source": "r/law"
+  },
+  {
+    "id": 5,
+    "hour": 1,
+    "text": "Another AI hype cycle. Remember when GPT-3 was going to change everything? I'll believe it when I see it deployed at scale.",
+    "source": "r/skeptic"
+  },
+  {
+    "id": 6,
+    "hour": 2,
+    "text": "My 8-year-old just asked it to help write a story. He was absolutely delighted. Whatever the implications for adults, kids are going to grow up with this as normal.",
+    "source": "r/Parenting"
+  },
+  {
+    "id": 7,
+    "hour": 2,
+    "text": "I've been in software for 20 years. I feel obsolete. Not exaggerating. I need to rethink my entire career.",
+    "source": "r/cscareerquestions"
+  },
+  {
+    "id": 8,
+    "hour": 2,
+    "text": "The multimodal capabilities are wild. Feeding it an image of a handwritten equation and getting a worked solution back. Incredible.",
+    "source": "r/MachineLearning"
+  },
+  {
+    "id": 3,
+    "hour": 3,
+    "text": "People saying it'll replace programmers clearly haven't used it seriously. It's a great autocomplete, not a thinker. Calm down.",
+    "source": "r/programming"
+  },
+  {
+    "id": 10,
+    "hour": 3,
+    "text": "It failed basic spatial reasoning when I tested it. Still massive gaps. The hype is getting ahead of reality again.",
+    "source": "r/artificial"
+  },
+  {
+    "id": 11,
+    "hour": 4,
+    "text": "I'm a teacher. My whole curriculum is now broken. Students can just generate essays instantly. I don't know what to do.",
+    "source": "r/Teachers"
+  },
+  {
+    "id": 12,
+    "hour": 4,
+    "text": "What a time to be alive. Genuinely excited and terrified in equal measure. History is happening in real time.",
+    "source": "r/Futurology"
+  },
+  {
+    "id": 13,
+    "hour": 5,
+    "text": "Used it to debug a nasty concurrency issue I've been stuck on for 3 days. Solved in 10 minutes. My productivity is going to go through the roof.",
+    "source": "r/programming"
+  },
+  {
+    "id": 14,
+    "hour": 5,
+    "text": "The safety team was clearly rushed. I found several jailbreaks in the first hour. OpenAI is moving too fast.",
+    "source": "r/netsec"
+  },
+  {
+    "id": 15,
+    "hour": 6,
+    "text": "Tested it on my field (biochemistry). It's confident and mostly wrong on cutting-edge questions. Strong on textbook knowledge, weak on research frontiers.",
+    "source": "r/biochemistry"
+  },
+  {
+    "id": 16,
+    "hour": 6,
+    "text": "The thing that gets me is it's going to keep improving. This is the worst it will ever be. That's a lot to process.",
+    "source": "r/Futurology"
+  },
+  {
+    "id": 17,
+    "hour": 7,
+    "text": "Everyone panicking about jobs — the economy has absorbed technological disruption before. We'll adapt. We always do.",
+    "source": "r/economics"
+  },
+  {
+    "id": 18,
+    "hour": 7,
+    "text": "I asked it to help me process my grief after losing my dad. It was surprisingly kind. I cried. I don't know what to make of that.",
+    "source": "r/GriefSupport"
+  },
+  {
+    "id": 19,
+    "hour": 8,
+    "text": "We're living through a genuine paradigm shift and half the internet is making memes. History won't be kind to how casually we greeted this.",
+    "source": "r/philosophy"
+  },
+  {
+    "id": 20,
+    "hour": 8,
+    "text": "Already seeing people use it to generate disinformation at scale. I work in fact-checking. The next election cycle is going to be a disaster.",
+    "source": "r/Journalism"
+  },
+  {
+    "id": 21,
+    "hour": 9,
+    "text": "The steerability improvements are impressive. You can actually shape its personality and communication style now. Much more useful for real workflows.",
+    "source": "r/MachineLearning"
+  },
+  {
+    "id": 22,
+    "hour": 9,
+    "text": "I just feel deeply uneasy. Can't explain it rationally. Something about the speed of this feels wrong.",
+    "source": "r/TrueOffMyChest"
+  },
+  {
+    "id": 23,
+    "hour": 10,
+    "text": "Three hours in and I've already built a working prototype of an app I've been planning for months. The barrier to building has basically collapsed.",
+    "source": "r/entrepreneur"
+  },
+  {
+    "id": 24,
+    "hour": 10,
+    "text": "Honestly the most exciting day in tech since the iPhone launch. I remember where I was for that too. Same feeling.",
+    "source": "r/technology"
+  },
+  {
+    "id": 25,
+    "hour": 11,
+    "text": "My anxiety is through the roof. I have two kids to feed. If my job disappears I don't know what I do.",
+    "source": "r/Anxiety"
+  },
+  {
+    "id": 26,
+    "hour": 11,
+    "text": "The coverage is so uncritical. No one is asking about the energy cost, the labour behind the training data, the IP implications. This is not just a cool product.",
+    "source": "r/technology"
+  },
+  {
+    "id": 27,
+    "hour": 12,
+    "text": "Used it to translate a letter from my grandmother who only speaks Cantonese. First time we've been able to communicate directly in 40 years. I'm overwhelmed.",
+    "source": "r/immigration"
+  },
+  {
+    "id": 28,
+    "hour": 12,
+    "text": "The dust is settling. It's a powerful tool. Not magic, not the apocalypse. Just a very powerful tool we need to learn to use well.",
+    "source": "r/rational"
+  },
+  {
+    "id": 29,
+    "hour": 13,
+    "text": "Twelve hours of experiments done. My conclusion: transformative for some fields, marginal for others, and overhyped for most casual use cases. Nuance matters.",
+    "source": "r/MachineLearning"
+  },
+  {
+    "id": 30,
+    "hour": 13,
+    "text": "Whatever happens from here, something shifted today. I can feel it. My kids will ask me about this day in twenty years.",
+    "source": "r/Futurology"
+  }
+]
