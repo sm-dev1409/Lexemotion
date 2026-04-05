@@ -126,7 +126,7 @@ def plot_sentiment_arc(hourly_data):
 
     hours = sorted(hourly_data.keys())
     x = np.array(hours)
-    y = np.array([hourly_data[h]["sentiment"] for h in hours])
+    y = np.array([hourly_data[h]["sentiment_score"] for h in hours])
     counts = [hourly_data[h]["post_count"] for h in hours]
 
     fig, ax = plt.subplots(figsize=(14, 5))
